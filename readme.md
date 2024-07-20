@@ -23,7 +23,7 @@ Tabibu Hub Connect allows users to access reliable health advice, over-the-count
 
 
 1. Open your terminal and navigate to the desired directory.
-2. Clone the repository from https://github.com/george-badia/Tabibu-Hub-Connect
+2. Clone the repository from https://github.com/george-badia/Tabibu-Hub-Connect-v-1
 3. Clone the repository using the SSH key.
 4. Open the cloned repository in Visual Studio Code.
 5. Run the project in a web browser.

@@ -1,0 +1,143 @@
+{
+   "images": {
+     "heartPlusLogo": "images/heart-plus-logo.png",
+     "bmiCalculator": "https://devsting.com/assets/js/javascript-bmi-calculator.png",
+     "heartRateMonitor": "https://forums.ni.com/t5/image/serverpage/image-id/257273i52FEE03B32CBA1AC?v=v2",
+     "symptomChecker": "https://play-lh.googleusercontent.com/cqO5UsxfVaO7Wi-Z_g4nPZlN4rkBZh8-41JlGG3ZL3DJxgvTMzkTVj-JBCpNzU_2Bac=w526-h296-rw",
+     "calorieCalculator": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAO0cOS68PpfOBsp0E-pqWbyncTduNvfp6A&s",
+     "doctor1": "https://t4.ftcdn.net/jpg/05/49/68/55/240_F_549685570_kr4HGw1tElDWcXefLiHrEKpfkfao99oy.jpg",
+     "doctor2": "https://t3.ftcdn.net/jpg/06/43/62/52/240_F_643625246_773zQTySyc1ddwlmaGCmd3HjiO5AmJVp.jpg"
+   },
+   "posts": [
+     {
+       "id": "post1",
+       "category": "diseases",
+       "image": "https://t4.ftcdn.net/jpg/08/38/04/37/240_F_838043796_nnxhAw1S8wfanp4NhwQ2D6i2FXuMLXqU.jpg",
+       "date": "February 15, 2024",
+       "comments": 20,
+       "title": "Common Diseases and Their Symptoms",
+       "description": "A comprehensive guide to recognizing symptoms of common diseases."
+     },
+     {
+       "id": "post2",
+       "category": "lifestyle",
+       "image": "https://ch-api.healthhub.sg/api/public/content/deeb81776bda448ba29e773b6e5a39c0?v=5322e8f9",
+       "date": "March 10, 2024",
+       "comments": 12,
+       "title": "Healthy Lifestyle Tips",
+       "description": "Simple tips to help you maintain a healthy lifestyle."
+     },
+     {
+       "id": "post3",
+       "category": "wellness",
+       "image": "https://ch-api.healthhub.sg/api/public/content/6b7f24e742624251bded1d8bf1dd76b9?v=528a33a9",
+       "date": "April 05, 2024",
+       "comments": 45,
+       "title": "Wellness Practices for a Balanced Life",
+       "description": "Explore different wellness practices to achieve a balanced life."
+     },
+     {
+       "id": "post4",
+       "category": "medications",
+       "image": "https://ch-api.healthhub.sg/api/public/content/f71a70add0fb4cea9abaf24b593db03b?v=bbe307e4&t=w387",
+       "date": "May 22, 2024",
+       "comments": 8,
+       "title": "How to Store Medications Safely",
+       "description": "Tips and guidelines on how to store medications safely at home."
+     },
+     {
+       "id": "post5",
+       "category": "diseases",
+       "image": "https://t4.ftcdn.net/jpg/06/16/74/85/240_F_616748507_sjnHFxjdQga5CkfvAwAH1tsKC7m6s4l7.jpg",
+       "date": "June 18, 2024",
+       "comments": 14,
+       "title": "Preventing the Spread of Infectious Diseases",
+       "description": "Measures and practices to prevent the spread of infectious diseases."
+     },
+     {
+       "id": "post6",
+       "category": "lifestyle",
+       "image": "https://ch-api.healthhub.sg/api/public/content/ee2d4c3c52454c7993528a78d9641558?v=9e282ed5",
+       "date": "July 02, 2024",
+       "comments": 22,
+       "title": "Balancing Work and Personal Life",
+       "description": "Strategies to help you balance your work and personal life effectively."
+     },
+     {
+       "id": "post7",
+       "category": "wellness",
+       "image": "https://ch-api.healthhub.sg/api/public/content/679b1335177d442f91a9f2083cc946b3?v=71e46346",
+       "date": "August 12, 2024",
+       "comments": 30,
+       "title": "Mindfulness and Meditation Techniques",
+       "description": "Learn various mindfulness and meditation techniques to enhance your well-being."
+     },
+     {
+      "id": "post8",
+      "category": "medications",
+      "image": "https://img.freepik.com/free-vector/blood-donation-station_74855-6261.jpg?w=740&t=st=1721342661~exp=1721343261~hmac=bff5d059dc6be3ee03470cc835671907461e945132e78136cbd2203c175da085",
+      "date": "August 12, 2024",
+      "comments": 30,
+      "title": "A-Z of Medical Medication",
+      "description": "Get Step-by-Step Guide on dosages, How to use and its side effects."
+    },
+    {
+      "id": "post9",
+      "category": "medications",
+      "image": "https://cdn.healthhub.sg/-/media/ihis/images/categories_logo.svg?rev=a7ce2c7eacb742b48e88f107fe74618b",
+      "date": "August 12, 2024",
+      "comments": 30,
+      "title": "A-Z of Medical Medication",
+      "description": "Get Step-by-Step Guide on dosages, How to use and its side effects."
+    }
+   ],
+   "doctors": [
+     {
+       "id": "doctor1",
+       "title":"online doctor",
+       "name": "Dr. John Smith",
+       "specialty": "Cardiologist",
+       "img": "https://t4.ftcdn.net/jpg/05/49/68/55/240_F_549685570_kr4HGw1tElDWcXefLiHrEKpfkfao99oy.jpg",
+       "bio": "Dr. John Smith is a leading cardiologist with over 20 years of experience..."
+     },
+     {
+      "id": "doctor2",
+      "title":"online doctor",
+      "name": "Dr. Jane Doe",
+      "specialty": "General Practitioner",
+      "img": "https://t3.ftcdn.net/jpg/06/43/62/52/240_F_643625246_773zQTySyc1ddwlmaGCmd3HjiO5AmJVp.jpg",
+      "bio": "Dr. Jane Doe is a compassionate general practitioner with a broad range of experience in family medicine. She is dedicated to providing comprehensive care for patients of all ages..."
+  }
+   ],
+   "healthTools": [
+     {
+       "id": "tool1",
+       "name": "BMI Calculator",
+       "description": "Calculate your Body Mass Index to understand your health better...",
+       "link": "tools/bmi-calculator.html",
+       "image": "https://devsting.com/assets/js/javascript-bmi-calculator.png"
+     },
+     {
+       "id": "tool2",
+       "name": "Heart Rate Monitor",
+       "description": "Monitor your heart rate to ensure it stays within a healthy range...",
+       "link": "tools/heart-rate-monitor.html",
+       "image": "https://forums.ni.com/t5/image/serverpage/image-id/257273i52FEE03B32CBA1AC?v=v2"
+     },
+     {
+       "id": "tool3",
+       "name": "Symptom Checker",
+       "description": "Identify potential health issues based on your symptoms...",
+       "link": "tools/symptom-checker.html",
+       "image": "https://play-lh.googleusercontent.com/cqO5UsxfVaO7Wi-Z_g4nPZlN4rkBZh8-41JlGG3ZL3DJxgvTMzkTVj-JBCpNzU_2Bac=w526-h296-rw"
+     },
+     {
+       "id": "tool4",
+       "name": "Calorie Calculator",
+       "description": "Track your daily calorie intake to maintain a balanced diet...",
+       "link": "tools/calorie-calculator.html",
+       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAO0cOS68PpfOBsp0E-pqWbyncTduNvfp6A&s"
+     }
+   ]
+ }
+ 

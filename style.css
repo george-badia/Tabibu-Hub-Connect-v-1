@@ -184,46 +184,20 @@ nav {
    padding: 10px 0;
    opacity: 1;
    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-   color: #000;}
-/* Main Container Styles */
-.main-container {
-   width: 90vw;
-   margin: 0 auto;
-   padding: 40px 0;
-   padding-top: 80px;
-}
-
-.main-container > h2 {
-   text-align: center;
-   padding: 10px 0;
-   font-size: 32px;
-   color: #0066cc; /* Dark blue color */
-   padding-top: 80px;
-}
-
-.main-container > p {
-   text-align: center;
-   font-weight: 300;
-   padding: 10px 0;
-   opacity: 0.7;
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    color: #000;
-   font-weight: bolder;
+   /* font-weight: bolder; */
 }
-
-/* Category Head Styles */
+ /* --------------Category Head Styles------------- */
 .category-head {
    margin: 30px 0;
 }
-
-.category-head ul {
+.category-head ul{
    list-style-type: none;
    display: flex;
-   justify-content: center; /* Center align categories */
+   justify-content: center;
    flex-wrap: wrap;
    padding: 0;
 }
-
 .category-title {
    flex: 0 0 calc(16.6667% - 10px);
    display: flex;
@@ -237,18 +211,15 @@ nav {
    transition: all 0.4s ease;
    text-align: center;
 }
-
 .category-title:hover {
    opacity: 0.7;
 }
-
 .category-title.active {
    background: #0066cc;
    color: #fff;
 }
- 
 .category-title span {
-   color: #0066cc; /* Dark blue color */
+   color: #0066cc;
 }
 /* Posts Container Styles */
 .posts-main-container {
@@ -385,6 +356,11 @@ nav {
    border: 1px solid #ddd;
    border-radius: 5px;
    margin-bottom: 20px;
+}
+#contactForm label {
+   display: block;
+   margin-bottom: 8px;
+   font-weight: bold;
 }
 
 .contact-doctor button {

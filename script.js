@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
    const logo = document.querySelector('.logo');
    const homeLink = document.querySelector('#navLinks li:first-child a'); 
    
-   // scroll to the top of the page by the scrollToTop function
+   //scroll to the top of the page by the scrollToTop function
    function scrollToTop() {
        window.scrollTo({
            top: 0,
@@ -129,7 +129,16 @@ document.addEventListener('DOMContentLoaded', () => {
    fetchPosts('all');
    fetchHealthTools();
    fetchDoctors();
-
+ // ----------- menu toggle--------------//
+  //add click event listener
+  const menuToggle = document.querySelector('.menu-toggle');
+  const navLinks = document.getElementById('navLinks');
+  
+  menuToggle.addEventListener('click', () => {
+     menuToggle.classList.toggle('active');
+     navLinks.classList.toggle('active');
+  });
+    
    // Add event listeners to category titles
    categoryTitles.forEach(title => {
        title.addEventListener('click', () => {
